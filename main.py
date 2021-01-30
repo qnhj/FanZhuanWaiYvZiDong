@@ -1,3 +1,5 @@
+#环境python3.9
+
 import time
 import pyautogui
 import requests
